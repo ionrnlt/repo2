@@ -1,1 +1,4 @@
+<<<<<<< HEAD
 modif collab2
+modif collab1
+>>>>>>> 3eae77a994719715fc173a4d2395de9bef11ef77
